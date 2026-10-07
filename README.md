@@ -100,8 +100,7 @@ _______________________
 - Configuring and testing administrative settings to ensure that the server environment functioned as required.
 
 - Troubleshooting configuration issues during the implementation and testing stages.
-
-- Contributing to the project's documentation and final presentation..]
+  
 _____________________________________________________________________________________________________________________
 Skills Demonstrated
 
@@ -131,10 +130,8 @@ Troubleshooting
 
 Team collaboration
 
-Project Type
-
 Academic Group Project
-
+__________________________
 Module: Operating Systems 261
 
 Assessment: Windows Server 2019 Infrastructure Project
