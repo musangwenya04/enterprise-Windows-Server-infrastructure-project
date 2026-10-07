@@ -89,9 +89,6 @@ Remote access was configured to support employees working outside the organisati
 My Contribution
 _______________________
 
-- This was a group project, and I contributed to the planning, implementation, testing, and documentation of my allocated sections.
-
-My specific contribution:
 - Installing and configuring the required Windows Server roles and features.
 
 - Creating and configuring roaming and mandatory user profiles to support consistent user environments and controlled access.
